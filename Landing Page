@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ktalkstech Cybersecurity Packages</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      background-color: #0c0c0c;
+      color: #ffffff;
+    }
+    header {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      font-size: 2rem;
+      margin: 0.5rem 0;
+    }
+    header p {
+      font-size: 1rem;
+      color: #bbbbbb;
+    }
+    section {
+      padding: 2rem 1rem;
+      border-bottom: 1px solid #333;
+    }
+    .package {
+      max-width: 600px;
+      margin: 0 auto 2rem;
+      border: 2px solid #ff3131;
+      border-radius: 12px;
+      padding: 1.5rem;
+      background-color: #141414;
+    }
+    .package h2 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      color: #ff3131;
+    }
+    .package ul {
+      padding-left: 1rem;
+    }
+    .package li {
+      margin-bottom: 0.5rem;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 1rem;
+    }
+    .cta a {
+      background-color: #ff3131;
+      color: #000;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #1a1a1a;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Secure Your Digital World</h1>
+    <p>Affordable cybersecurity & IT packages by Khalil Abiodun | @Ktalkstech</p>
+  </header>
+
+  <section>
+    <div class="package">
+      <h2>🛡️ Basic Cyber Check – £50</h2>
+      <ul>
+        <li>Online presence scan</li>
+        <li>Social media & password security</li>
+        <li>Personalised tips</li>
+        <li>1–2 day delivery</li>
+        <li>15 min follow-up call</li>
+      </ul>
+      <p>✅ Perfect for individuals, freelancers & side hustlers</p>
+      <div class="cta">
+        <a href="#">DM “Secure Me”</a>
+      </div>
+    </div>
+
+    <div class="package">
+      <h2>🧰 Secure Setup Package – £150</h2>
+      <ul>
+        <li>Basic Cyber Check included</li>
+        <li>Workspace/365 review</li>
+        <li>Wi-Fi & device tips</li>
+        <li>PDF checklist</li>
+        <li>30 min Zoom consult</li>
+      </ul>
+      <p>✅ Best for freelancers & small business owners</p>
+      <div class="cta">
+        <a href="#">Book Secure Setup</a>
+      </div>
+    </div>
+
+    <div class="package">
+      <h2>🔐 Cyber Hygiene Audit – £350</h2>
+      <ul>
+        <li>Full Secure Setup Package</li>
+        <li>Cloud & file-sharing security</li>
+        <li>Website / landing page scan</li>
+        <li>Simulated threat test</li>
+        <li>Branded PDF report</li>
+      </ul>
+      <p>✅ Best for coaches, teams & content creators</p>
+      <div class="cta">
+        <a href="#">Start Audit</a>
+      </div>
+    </div>
+
+    <div class="package">
+      <h2>📡 Ongoing Cyber Support (MSP-style)</h2>
+      <ul>
+        <li>Monthly cyber check-ins & reports</li>
+        <li>Ongoing patching & software reviews</li>
+        <li>Priority response to incidents</li>
+        <li>Device & access management</li>
+        <li>Employee awareness + phishing simulations</li>
+      </ul>
+      <p>✅ Ideal for creators, small teams & startups needing regular care</p>
+      <div class="cta">
+        <a href="#">Enquire for Support</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Built by Khalil Abiodun | Powered by @Ktalkstech
+  </footer>
+</body>
+</html>
